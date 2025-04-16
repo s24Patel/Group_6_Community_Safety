@@ -1,3 +1,9 @@
+#  Neighborhood Watch App – Group 6
+
+##  Group Members
+- **Chidubem Ogbonna Asanya** (8964026)  
+- **Shyamal Patel** (8906789)
+
 ##  Project Topic
 **Neighborhood Watch App for Kitchener/Waterloo Region**
 
@@ -202,3 +208,17 @@ Encourages broader community involvement and shared safety culture.
 The Neighborhood Watch App bridges communication gaps, enhances safety awareness, and fosters proactive community response. It enables accurate reporting, real-time mapping, trend analysis, and forecasted alerts, delivering a data-informed and inclusive safety platform for the Kitchener/Waterloo Region.
 
 ---
+
+##  References
+
+- **Citizen.** (2023). *Citizen App – Real-time safety alerts.*  
+  https://citizen.com
+
+- **Lucas, S.** (2014). *Community Safety and Public Engagement.*  
+  *Journal of Urban Policy, 12*(3), 245–260.
+
+- **Meetup.** (2023). *Organizing Events Made Easy.*  
+  https://www.meetup.com
+
+- **VolunteerMatch.** (n.d.). *Best Practices for Community Organizers.*  
+  https://www.volunteermatch.org/articles
