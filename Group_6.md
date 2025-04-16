@@ -217,8 +217,8 @@ The Neighborhood Watch App bridges communication gaps, enhances safety awareness
 - **Lucas, S.** (2014). *Community Safety and Public Engagement.*  
   *Journal of Urban Policy, 12*(3), 245–260.
 
-- **Meetup.** (2023). *Organizing Events Made Easy.*  
-  https://www.meetup.com
+- **Region of Waterloo.** (n.d.). *Community safety and well-being plan: Final report for council.*  
+  Retrieved, from https://www.regionofwaterloo.ca
 
-- **VolunteerMatch.** (n.d.). *Best Practices for Community Organizers.*  
-  https://www.volunteermatch.org/articles
+- **CityNews.** (2022, July 19). *Local business still concerned about safety near Victoria encampment.*  
+  https://kitchener.citynews.ca
